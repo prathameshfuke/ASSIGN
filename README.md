@@ -56,36 +56,36 @@ This project analyzes the relationship between **cryptocurrency trader performan
 ## 📊 Visualizations
 
 ### 1. **PnL Distribution Analysis**
-![PnL Distribution](images/PnL_Distribution.png)  
+![PnL Distribution](/images/PnL_Distribution.png)  
 *Boxplot analysis showing profit/loss distribution across different market sentiment classifications*
 
 ### 2. **Trading Behavior Patterns**
-![Trading Activity](images/tradeactivity.png)  
+![Trading Activity](/images/tradeactivity.png)  
 *Hourly trading activity patterns segmented by market sentiment*
 
 ### 3. **Account Performance Matrix**
-![Account PnL by Sentiment](images/avgpnlbyaccvssentiment.png)  
+![Account PnL by Sentiment](/images/avgpnlbyaccvssentiment.png)  
 *Heatmap showing average PnL performance for top accounts across sentiment regimes*
 
 ### 4. **Fee Structure Analysis**
-![Average Fees vs Market Sentiment](images/avgfeesvsmarketsenti.png)  
+![Average Fees vs Market Sentiment](/images/avgfeevsmarketsenti.png)  
 *Bar chart analyzing how trading fees vary with market sentiment*
 
 ### 5. **Sentiment-Performance Correlation**
-![Sentiment vs Average Daily PnL](images/SentimentVsAvgDaily.png)  
+![Sentiment vs Average Daily PnL](/images/SentimentVsAvgDaily.png)  
 *Scatter plot with trend line showing the relationship between Fear/Greed index and daily returns*
 
 ### 6. **Trading Patterns**
-![Trading Patterns](images/trad.png)  
+![Trading Patterns](/images/trad.png)  
 *Analysis of trading direction and volume patterns*
 
 ### 7. **Volume Analysis**
-![Average Trade vs Sentiment](images/AVGtradesvsSent.png)  
+![Average Trade vs Sentiment](/images/AVGtradevsSent.png)  
 *Bar chart showing how average trade sizes correlate with market sentiment*
 
 ### 8. **Comprehensive Overview**
-![Overall Visualization](images/visualisation.png)  
-![Additional Analysis](images/visualisation2.png)  
+![Overall Visualization](/images/visualisation.png)  
+![Additional Analysis](/images/visualisation2.png)  
 *Complete analytical dashboard with all key metrics*
 
 ---
